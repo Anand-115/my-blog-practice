@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.venv/
+env/
+venv/
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# IDE/editor settings
+.vscode/
+.idea/
