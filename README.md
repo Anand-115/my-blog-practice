@@ -1,2 +1,2 @@
-# my-blog-practice
-This is my blog practice repo.
+# Installation page guide
+[Click here](https://github.com/Anand-115/my-blog-practice/wiki/Installation)
